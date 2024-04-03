@@ -58,13 +58,14 @@ To improve my knowledge, I am always reading papers from experienced developers.
 
 ## Projects
 web development is practice and practice. So I am always working on projects, either during my courses, pr defined by myself. Most of them are on my [github repositories](https://github.com/mbalali63?tab=repositories). Some of them are deployed on [cloudflare](https://www.cloudflare.com/) and you can find the links below:
-1. [tic-tac game](https://tictac2.pages.dev/)
+1. [Calculator](https://reactcalculator-5ce.pages.dev/)
+2. [tic-tac game](https://tictac2.pages.dev/)
 this is implemented by React
-2. [Snake game](https://snakegame-1ev.pages.dev/)
+3. [Snake game](https://snakegame-1ev.pages.dev/)
 this is implemented by tailwind-css
-3. [Sample Company website - in persian](https://firstpersian.pages.dev/)
+4. [Sample Company website - in persian](https://firstpersian.pages.dev/)
 this is implemented by tailwind-css
-4. [Sample Company website](https://samplecompany1.pages.dev/)
+5. [Sample Company website](https://samplecompany1.pages.dev/)
 this is also implemented using tailwind-css
 
 
