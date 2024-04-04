@@ -37,7 +37,7 @@ I have started my journey to the world of web development, by reviewing few cour
 ## Chalenges:
  To keep myself fresh, with what I have learned, and find my weaknesses, I am always taking part in different challenges. I can mention some of theme below:
  1. [JSCodebox](https://jscodebox.com/)
-  This website provide challenges for javascript. I am now just level 5, but I will grow continuesly.<br><br>
+  This website provide challenges for javascript. I am now just level 6, but I will grow continuesly.<br><br>
   ![jscodebox profile](./Screenshot%20from%202024-03-31%2019-06-57.png)
 
 2. [PlayCSS](https://playcss.app/)
