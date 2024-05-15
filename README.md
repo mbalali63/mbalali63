@@ -73,9 +73,10 @@ web development is practice and practice. So I am always working on projects, ei
 </li> <a href="https://samplecompany1.pages.dev/">Sample Company website</a>
      this is also implemented using tailwind-css</li>
 <li> <a href="https://github.com/mbalali63/menu">Responsive Menu bar</a>
-    this is implemented using ReactJS</li>
-</li> <a href="https://github.com/mbalali63/carousel1)">Image Carousel</a>
-   I created this carousel by ReactJS</li>
+    this is implemented using ReactJS </li>
+<li> <a href="https://github.com/mbalali63/carousel1)">Image Carousel</a>
+   I created this carousel by ReactJS
+</li>
 </ol>
 
 
