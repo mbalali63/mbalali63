@@ -60,7 +60,7 @@ To improve my knowledge, I am always reading papers from experienced developers.
 web development is practice and practice. So I am always working on projects, either during my courses, pr defined by myself. Most of them are on my [github repositories](https://github.com/mbalali63?tab=repositories). Some of them are deployed on [cloudflare](https://www.cloudflare.com/) and you can find the links below:
 
 <ol>
- <li>[Image manipulation website (https://github.com/mbalali63/imagemanipulation) 
+ <li>[Image manipulation website] (https://github.com/mbalali63/imagemanipulation) 
      Full stack implementation with React and Express-JS
  </li>
  <li>[Calculator](https://reactcalculator-5ce.pages.dev/) this is implemented by React</li>
