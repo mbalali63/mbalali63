@@ -63,16 +63,16 @@ web development is practice and practice. So I am always working on projects, ei
  <li>[Image manipulation website] (https://github.com/mbalali63/imagemanipulation) 
      Full stack implementation with React and Express-JS
  </li>
- <li>[Calculator](https://reactcalculator-5ce.pages.dev/) this is implemented by React</li>
- <li>[tic-tac game](https://tictac2.pages.dev/)
+ <li> [Calculator](https://reactcalculator-5ce.pages.dev/) this is implemented by React</li>
+ <li> [tic-tac game](https://tictac2.pages.dev/)
      this is implemented by React </li>
- <li>[Snake game](https://snakegame-1ev.pages.dev/)
+ <li> [Snake game](https://snakegame-1ev.pages.dev/)
      this is implemented by tailwind-css</li>
-<li>[Sample Company website - in persian](https://firstpersian.pages.dev/)
+<li> [Sample Company website - in persian](https://firstpersian.pages.dev/)
      this is implemented by tailwind-css</li>
-</li>[Sample Company website](https://samplecompany1.pages.dev/)
+</li> [Sample Company website](https://samplecompany1.pages.dev/)
      this is also implemented using tailwind-css</li>
-<li>[Responsive Menu bar](https://github.com/mbalali63/menu)
+<li> [Responsive Menu bar](https://github.com/mbalali63/menu)
     this is implemented using ReactJS</li>
 </li> [Image Carousel](https://github.com/mbalali63/carousel1)
    I created this carousel by ReactJS</li>
