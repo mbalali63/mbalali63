@@ -58,20 +58,25 @@ To improve my knowledge, I am always reading papers from experienced developers.
 
 ## Projects
 web development is practice and practice. So I am always working on projects, either during my courses, pr defined by myself. Most of them are on my [github repositories](https://github.com/mbalali63?tab=repositories). Some of them are deployed on [cloudflare](https://www.cloudflare.com/) and you can find the links below:
-1. [Calculator](https://reactcalculator-5ce.pages.dev/) this is implemented by React
 
-2. [tic-tac game](https://tictac2.pages.dev/)
-this is implemented by React
-3. [Snake game](https://snakegame-1ev.pages.dev/)
-this is implemented by tailwind-css
-4. [Sample Company website - in persian](https://firstpersian.pages.dev/)
-this is implemented by tailwind-css
-5. [Sample Company website](https://samplecompany1.pages.dev/)
-this is also implemented using tailwind-css
-6. [Responsive Menu bar](https://github.com/mbalali63/menu)
-   this is implemented using ReactJS
-7. [Image Carousel](https://github.com/mbalali63/carousel1)
-   I created this carousel by ReactJS
+<ol>
+ <li>[Image manipulation website (https://github.com/mbalali63/imagemanipulation) 
+     Full stack implementation with React and Express-JS
+ </li>
+ <li>[Calculator](https://reactcalculator-5ce.pages.dev/) this is implemented by React</li>
+ <li>[tic-tac game](https://tictac2.pages.dev/)
+     this is implemented by React </li>
+ <li>[Snake game](https://snakegame-1ev.pages.dev/)
+     this is implemented by tailwind-css</li>
+<li>[Sample Company website - in persian](https://firstpersian.pages.dev/)
+     this is implemented by tailwind-css</li>
+</li>[Sample Company website](https://samplecompany1.pages.dev/)
+     this is also implemented using tailwind-css</li>
+<li>[Responsive Menu bar](https://github.com/mbalali63/menu)
+    this is implemented using ReactJS</li>
+</li> [Image Carousel](https://github.com/mbalali63/carousel1)
+   I created this carousel by ReactJS</li>
+</ol>
 
 
 ## Contact Me:
