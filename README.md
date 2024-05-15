@@ -62,22 +62,19 @@ web development is practice and practice. So I am always working on projects, ei
 <ol>
  <li><a href="https://github.com/mbalali63/imagemanipulation">Image manipulation website</a>
      Full stack implementation with React and Express-JS
- </li>
- <li>[Image manipulation website] (https://github.com/mbalali63/imagemanipulation) 
-     Full stack implementation with React and Express-JS
- </li>
- <li> [Calculator](https://reactcalculator-5ce.pages.dev/) this is implemented by React</li>
- <li> [tic-tac game](https://tictac2.pages.dev/)
+ </li> 
+ <li> <a href="https://reactcalculator-5ce.pages.dev/">Calculator</a>  this is implemented by React</li>
+ <li> <a href="https://tictac2.pages.dev/">tic-tac game</a>
      this is implemented by React </li>
- <li> [Snake game](https://snakegame-1ev.pages.dev/)
+ <li> <a href="https://snakegame-1ev.pages.dev/">Snake game</a>
      this is implemented by tailwind-css</li>
-<li> [Sample Company website - in persian](https://firstpersian.pages.dev/)
+<li> <a href="https://firstpersian.pages.dev/">Sample Company website - in persian</a>
      this is implemented by tailwind-css</li>
-</li> [Sample Company website](https://samplecompany1.pages.dev/)
+</li> <a href="https://samplecompany1.pages.dev/">Sample Company website</a>
      this is also implemented using tailwind-css</li>
-<li> [Responsive Menu bar](https://github.com/mbalali63/menu)
+<li> <a href="https://github.com/mbalali63/menu">Responsive Menu bar</a>
     this is implemented using ReactJS</li>
-</li> [Image Carousel](https://github.com/mbalali63/carousel1)
+</li> <a href="https://github.com/mbalali63/carousel1)">Image Carousel</a>
    I created this carousel by ReactJS</li>
 </ol>
 
