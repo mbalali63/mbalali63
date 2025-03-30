@@ -14,7 +14,7 @@ Your support and guidance as I navigate this transition would be immensely appre
  As a freshman in my new field, I am tracking the roadmap provided in roadmap.sh for Full stack developer. you can find it [here](https://roadmap.sh/full-stack).
  <br><br>
 
- [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/66097485da1671f986ec3689?variant=dark)](https://roadmap.sh)
+ [![roadmap.sh]([https://api.roadmap.sh/v1-badge/tall/66097485da1671f986ec3689?variant=dark](https://roadmap.sh/card/tall/66097485da1671f986ec3689?variant=dark))](https://roadmap.sh)
  
 ## Mastery Pursuit
 To improve my skills in this new field, I am trying different choices and tools, day by day. Here I mention some of them:
